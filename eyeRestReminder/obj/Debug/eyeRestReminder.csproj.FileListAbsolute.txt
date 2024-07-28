@@ -1,0 +1,15 @@
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\bin\Debug\eyeRestReminder.exe.config
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\bin\Debug\eyeRestReminder.exe
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\bin\Debug\eyeRestReminder.pdb
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.csproj.AssemblyReference.cache
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.csproj.SuggestedBindingRedirects.cache
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\MainWindow.g.cs
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\App.g.cs
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder_MarkupCompile.cache
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\MainWindow.baml
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.g.resources
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.Properties.Resources.resources
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.csproj.GenerateResource.cache
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.csproj.CoreCompileInputs.cache
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.exe
+C:\Users\msi\source\repos\eyeRestReminder\eyeRestReminder\obj\Debug\eyeRestReminder.pdb
